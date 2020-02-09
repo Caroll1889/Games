@@ -7,7 +7,7 @@ name = input()
 print("Welcome " + name, "nice to meet you!")
 
 number = randint(1, 20)
-print("Well " + name, "I'm thinking in a number between 1 and 20")
+print("Well, I'm thinking in a number between 1 and 20")
 
 while attempts < 5:
     print("Try to guess")
